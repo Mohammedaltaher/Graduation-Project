@@ -1,5 +1,12 @@
 https://www.hindawi.com/journals/cin/2016/3289801/abs/
-https://www.sciencedirect.com/science/article/pii/S0168169904000705
 https://www.frontiersin.org/articles/10.3389/fpls.2016.01419/full
-https://www.sciencedirect.com/science/article/pii/S0168169917312619
-https://www.sciencedirect.com/science/article/pii/S0168169917311742
+https://pdfs.semanticscholar.org/adae/9446cb66eaa6645dca78fd81b21d43aebdda.pdf
+http://dstore.alazhar.edu.ps/xmlui/handle/123456789/278
+
+	Study Title
+Authors :
+
+1] Problem
+2] Objectives
+3] Technologies
+4] Results
